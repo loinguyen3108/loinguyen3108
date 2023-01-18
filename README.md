@@ -1,17 +1,17 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loi+Nguyen+%7C+Data+Engineer+%7C+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loi+Nguyen+%7C+Data+Engineer+%7C+GitHub" alt="Typing SVG" /></a>
 <br/>
 
-<a href="https://gkos.tech">
+<a href="https://gkos.tech" target="_blank">
     <img src="https://img.shields.io/badge/website-loinguyen3108-brightgreen?style=flat-square">
 </a>  
-<a href="https://drive.google.com/file/d/1_2Vcv95FsXAwZT361D6bp5wTeG1Edfam/view">
+<a href="https://drive.google.com/file/d/1_2Vcv95FsXAwZT361D6bp5wTeG1Edfam/view" target="_blank">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/l%E1%BB%A3i-nguy%E1%BB%85n-323080190/">
+<a href="https://www.linkedin.com/in/l%E1%BB%A3i-nguy%E1%BB%85n-323080190/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:ntloic3tbt@gmail.com">
+<a href="mailto:ntloic3tbt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
@@ -21,7 +21,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="https://github.com/loinguyen3108">
+<a href="https://github.com/loinguyen3108" target="_blank">
     <img src="https://github-stats-alpha.vercel.app/api?username=loinguyen3108&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
