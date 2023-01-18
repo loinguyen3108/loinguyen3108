@@ -29,7 +29,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th></tr>
+<tr><th>Project</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
