@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loi+Nguyen+%7C+Data+Engineer+%7C+GitHub" alt="Typing SVG" /></a>
 <br/>
 
-<a href="https://gkos.tech" target="_blank">
+<a href="https://loinguyen3108.github.io/loinguyen-profile/" target="_blank">
     <img src="https://img.shields.io/badge/website-loinguyen3108-brightgreen?style=flat-square">
 </a>  
 <a href="https://drive.google.com/file/d/1_2Vcv95FsXAwZT361D6bp5wTeG1Edfam/view" target="_blank">
