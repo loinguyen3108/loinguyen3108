@@ -34,7 +34,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Portfolio](https://github.com/loinguyen3108/loinguyen-profile) | <img alt="Stars" src="https://img.shields.io/github/stars/loinguyen3108/loinguyen-profile?style=flat-square&labelColor=black"/> | ![HTML](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)|
+| [Portfolio](https://github.com/loinguyen3108/my-portfolio) | <img alt="Stars" src="https://img.shields.io/github/stars/loinguyen3108/my-portfolio?style=flat-square&labelColor=black"/> | ![HTML](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)|
 | [DVD Rental ETL](https://github.com/loinguyen3108/dvdrental-etl) | <img alt="Stars" src="https://img.shields.io/github/stars/loinguyen3108/dvdrental-etl?style=flat-square&labelColor=black"/> | ![Apache Spark](https://img.shields.io/badge/apache_spark-black?style=flat-square&logo=apachespark)|
 | [Fifa ETL & Analyze](https://github.com/loinguyen3108/fifa-etl-analyze) | <img alt="Stars" src="https://img.shields.io/github/stars/loinguyen3108/fifa-etl-analyze?style=flat-square&labelColor=black"/> | ![Apache Spark](https://img.shields.io/badge/apache_spark-black?style=flat-square&logo=apachespark)|
 | [Wide World Importers Spark](https://github.com/loinguyen3108/Wide-World-Importers-Spark) | <img alt="Stars" src="https://img.shields.io/github/stars/loinguyen3108/Wide-World-Importers-Spark?style=flat-square&labelColor=black"/> | ![Apache Spark](https://img.shields.io/badge/apache_spark-black?style=flat-square&logo=apachespark)|
