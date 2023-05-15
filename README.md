@@ -27,7 +27,7 @@
 
 </p>
 
-### 🖥️ Open-Source Projects
+### 🖥️ Projects
 <table>
 <tr><th>Project</th></tr>
 <tr><td>
